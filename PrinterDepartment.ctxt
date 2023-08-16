@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PrinterDepartment
+comment1.params=itemName\ itemPrice\ itemID\ itemQuantity\ printsInColor
+comment1.target=PrinterDepartment(java.lang.String,\ double,\ int,\ int,\ boolean)
+comment10.params=newQuantity
+comment10.target=void\ changeQuantity(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getPrice()
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=int\ getQuantity()
+comment6.params=
+comment6.target=boolean\ printsInColor()
+comment7.params=newName
+comment7.target=void\ changeName(java.lang.String)
+comment8.params=newPrice
+comment8.target=void\ changePrice(double)
+comment9.params=newID
+comment9.target=void\ changeID(int)
+numComments=12

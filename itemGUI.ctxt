@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=itemGUI
+comment1.params=
+comment1.target=itemGUI()
+comment2.params=
+comment2.target=void\ itemGUIAccess()
+comment3.params=
+comment3.target=void\ invAddItem()
+comment4.params=
+comment4.target=void\ itemToInv()
+comment5.params=inventory
+comment5.target=void\ printAll2(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ changeColors()
+comment7.params=inventory
+comment7.target=void\ printAll3(java.util.ArrayList)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

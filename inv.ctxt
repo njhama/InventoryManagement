@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=inv
+comment1.params=itemName\ itemPrice\ itemID\ itemQuantity
+comment1.target=inv(java.lang.String,\ double,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getID()
+comment4.params=newName
+comment4.target=void\ changeName(java.lang.String)
+comment5.params=newPrice
+comment5.target=void\ changePrice(double)
+comment6.params=newID
+comment6.target=void\ changeID(int)
+comment7.params=newQuantity
+comment7.target=void\ changeQuantity(int)
+numComments=8
